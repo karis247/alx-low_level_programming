@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * *_strcat - concatenates @src to @dest
@@ -17,3 +17,4 @@ char *_strcat(char *dest, char *src)
 	for (index = 0; src[index]; index++)
 		dest[dest_len++] = src[index];
 	return (dest);
+}
