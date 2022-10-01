@@ -1,4 +1,4 @@
-[2:10 AM, 10/1/2022] Ariselz Hair and Hair Products: #include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
 
